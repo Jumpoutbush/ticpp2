@@ -6,7 +6,7 @@
 // The most basic use of the Thread class.
 //{L} ZThread
 #include <iostream>
-#include "LiftOff.h"
+#include "./LiftOff.h"
 #include "zthread/Thread.h"
 using namespace ZThread;
 using namespace std;
